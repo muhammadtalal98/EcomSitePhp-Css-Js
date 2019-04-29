@@ -44,7 +44,7 @@
             <!-- row -->
             <div class="row">
                 <!-- section title -->
-                <div class="col-md-12">
+                <div class="col-md-16">
                     <div class="section-title">
                         <h2 class="title">Shirts</h2>
                     </div>
